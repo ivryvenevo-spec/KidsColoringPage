@@ -1,0 +1,5 @@
+{
+  "name": "ColorMe - Photo to Coloring Page",
+  "description": "An application that transforms user-uploaded photos into black and white coloring pages using the Gemini API.",
+  "requestFramePermissions": []
+}
